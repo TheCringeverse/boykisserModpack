@@ -1,0 +1,16 @@
+/*
+!.gitignore
+!/defaultoptions/
+!/NoChatReports/
+!carryon-client.json
+!carryon-common.json
+!charm.toml
+!DistantHorizons.toml
+!emotecraft.json
+!fabrictailor.json
+!modmenu.json
+!realisticsleep.json
+!walk-jog-run.json
+!walk-jog-run-client.json
+!wands.json
+!yigd.toml
