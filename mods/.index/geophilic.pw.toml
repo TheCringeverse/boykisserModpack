@@ -1,0 +1,14 @@
+name = "Geophilic"
+filename = "geophilic-fabric-1.19-1.0.1.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/hl5OLM95/versions/5T4xt43L/geophilic-fabric-1.19-1.0.1.jar"
+hash-format = "sha512"
+hash = "1442775f907a141d2fb56df2f6ef8113b9f20b505bd4de551c780ee55a21382da1a877443e4cbfd0e52d54af30040edc58fab9e3656f7b66440e0d3c16fca426"
+
+[update]
+[update.modrinth]
+mod-id = "hl5OLM95"
+version = "5T4xt43L"

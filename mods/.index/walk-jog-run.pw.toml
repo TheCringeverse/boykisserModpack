@@ -1,0 +1,14 @@
+name = "Walk, Jog, Run!"
+filename = "walk-jog-run-1.0.1.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/S7uYYMZC/versions/NVmLsY88/walk-jog-run-1.0.1.jar"
+hash-format = "sha512"
+hash = "67e95ac2a5fa42f2e3f34d07a2fe866ee2ebd3740c5042926865a16728c802b1aee31f5ee3151639f78f00d9d5d44a2e4dd849951b728d97f4dcfcb0696db210"
+
+[update]
+[update.modrinth]
+mod-id = "S7uYYMZC"
+version = "NVmLsY88"

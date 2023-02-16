@@ -1,0 +1,14 @@
+name = "Technopig"
+filename = "technomodel-1.0.3.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/BX3at1x4/versions/UnoyaGkH/technomodel-1.0.3.jar"
+hash-format = "sha512"
+hash = "c8939bde0a29c738810427a70d392069a3799cd8ef0ae971b54828e7f372da2c121a1d1082a1dce6167a3a935ca07dff242f46c08c9f0f510ca9545e3219d98b"
+
+[update]
+[update.modrinth]
+mod-id = "BX3at1x4"
+version = "UnoyaGkH"

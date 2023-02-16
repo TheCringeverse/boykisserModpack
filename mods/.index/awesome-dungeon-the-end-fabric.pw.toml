@@ -1,0 +1,14 @@
+name = "Awesome Dungeon The End edition - Fabric"
+filename = "awesomedungeonend-fabric-1.19.2-3.0.0.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "5a165e5b7323f49419b315860b001766bc72ee6b"
+
+[update]
+[update.curseforge]
+file-id = 3959595
+project-id = 575402

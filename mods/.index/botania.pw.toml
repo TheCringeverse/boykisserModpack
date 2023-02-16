@@ -1,0 +1,14 @@
+name = "Botania"
+filename = "Botania-1.19.2-437-FABRIC.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/pfjLUfGv/versions/PxWspyO7/Botania-1.19.2-437-FABRIC.jar"
+hash-format = "sha512"
+hash = "59b73c9452546642ebea9c0ab353883fb49cce6d324aaffca84bd3f6dc8be0e69f8be251f02590cc70c4f947d03a6700e88a065a0efdaeaa7720c9fb4309a57e"
+
+[update]
+[update.modrinth]
+mod-id = "pfjLUfGv"
+version = "PxWspyO7"

@@ -1,0 +1,14 @@
+name = "Shacks"
+filename = "Shacks-1.0.0.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/tlGu0ged/versions/uSRiYt56/Shacks-1.0.0.jar"
+hash-format = "sha512"
+hash = "6a8b95a85ceb7ff36958193a445e2d6e12114d9b7f34c20f5e4117b1e66d9182d219d8cefcc24dc918689fd1e18bac9fd5586f802472bddbc70d2521c42cb690"
+
+[update]
+[update.modrinth]
+mod-id = "tlGu0ged"
+version = "uSRiYt56"
