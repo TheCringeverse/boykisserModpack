@@ -1,0 +1,9 @@
+{ "pack" : { "pack_format" : 5, "description" : "@Forsen, Throws & Shit" },
+"language":{
+    "ba_js":{
+        "name":"Forsen",
+        "region":"Eswatini",
+        "bidirectional":false
+        }
+    }
+}
