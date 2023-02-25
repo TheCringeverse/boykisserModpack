@@ -1,0 +1,5 @@
+useMapCreationHeight = false
+
+[[dimensions]]
+dimension = "minecraft:nether"
+scanHeight = 64
