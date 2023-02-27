@@ -2,6 +2,7 @@
 !.gitignore
 !/defaultoptions/
 !/NoChatReports/
+!/stack-to-nearby-chests/
 !carryon-client.json
 !carryon-common.json
 !charm.toml
